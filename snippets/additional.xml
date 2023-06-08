@@ -3,6 +3,11 @@
   <remote  name="lineage"
            fetch="https://github.com/LineageOS"
            revision="refs/heads/lineage-20.0" />
+  
+  <remote  name="arrow-gitlab"
+           fetch="https://gitlab.com/arrowos-project"
+           review="https://review.arrowos.net/"
+           revision="refs/heads/arrow-13.1" />
            
 <!-- SEPolicy Repos -->
   <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="lineage" />
@@ -93,4 +98,7 @@
   <project path="external/gptfdisk" name="android_external_gptfdisk" groups="pdk" remote="lineage" />
   <project path="external/mksh" name="android_external_mksh" groups="pdk" remote="lineage" />
   <project path="external/tinycompress" name="android_external_tinycompress" groups="pdk" remote="lineage" />
+
+  <!-- Face Unlock -->
+  <project path="packages/apps/ParanoidSense" name="android_packages_apps_ParanoidSense" remote="arrow-gitlab" />
 </manifest>
