@@ -32,4 +32,35 @@
   <remove-project name="device/google/sunfish-kernel" />
   <remove-project name="device/google/sunfish-sepolicy" />
 
+  <!-- build -->
+  <remove-project name="platform/build" />
+  <remove-project name="platform/build/soong" />
+
+  <!-- External -->
+  <remove-project name="platform/external/selinux" />
+  <remove-project name="platform/bootable/recovery" />
+
+  <!-- Frameworks -->
+  <remove-project name="platform/frameworks/native" />
+  <remove-project name="platform/frameworks/base" />
+  <remove-project name="platform/frameworks/opt/telephony" />
+  <remove-project name="platform/frameworks/opt/net/ims" />
+
+  <!-- hardware -->
+  <remove-project name="platform/hardware/interfaces" />
+  <remove-project name="platform/hardware/libhardware" />
+
+  <!-- Packages -->
+  <remove-project name="platform/packages/apps/Settings" />
+  <remove-project name="platform/packages/apps/Launcher3" />
+  <remove-project name="platform/packages/apps/ThemePicker" />
+  <remove-project name="platform/packages/apps/Contacts" />
+  <remove-project name="platform/packages/apps/Dialer" />
+  <remove-project name="platform/packages/modules/Bluetooth" />
+  <remove-project name="platform/packages/modules/Wifi" />
+  <remove-project name="platform/packages/apps/SettingsIntelligence" />
+
+  <!-- System -->
+  <remove-project name="platform/system/core" />
+
 </manifest>

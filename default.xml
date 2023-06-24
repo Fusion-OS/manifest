@@ -1190,6 +1190,7 @@
   <!-- END open-source projects -->
 
   <!-- FusionOS Additions -->
-  <include name="remove.xml" />
-  <include name="fuse.xml" />
+  <include name="snippets/remove.xml" />
+  <include name="snippets/fuse.xml" />
+  <include name="snippets/additional.xml" />
 </manifest>
