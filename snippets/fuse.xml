@@ -41,7 +41,10 @@
 
   <!-- System -->
   <project path="system/core" name="system_core" remote="fusion" />
-  
+
+  <!-- Fuse Sepolicy -->
+  <project path="device/fuse/sepolicy" name="device_fuse_sepolicy" remote="fusion" />
+
   <!-- recovery -->
   <project path="bootable/recovery" name="bootable_recovery" remote="fusion" />
 
