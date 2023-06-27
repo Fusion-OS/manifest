@@ -38,6 +38,7 @@
   <!-- build -->
   <remove-project name="platform/build" />
   <remove-project name="platform/build/soong" />
+  <remove-project name="platform/bionic" />
 
   <!-- External -->
   <remove-project name="platform/external/selinux" />
