@@ -4,6 +4,7 @@
   <remove-project name="platform/bootable/recovery" />
   <remove-project name="platform/build" />
   <remove-project name="platform/build/soong" />
+  <remove-project name="platform/bionic" />
 
   <!-- device -->
   <remove-project name="device/google/barbet" />
@@ -38,7 +39,7 @@
   <remove-project name="device/google/lynx" />
   <remove-project name="device/google/lynx-kernel" />
   <remove-project name="device/google/lynx-sepolicy" />
-
+  
   <!-- external repos -->
   <remove-project name="platform/external/selinux" />
 
