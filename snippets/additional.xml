@@ -92,5 +92,5 @@
   <!-- external -->
   <project path="external/gptfdisk" name="android_external_gptfdisk" groups="pdk" remote="lineage" />
   <project path="external/mksh" name="android_external_mksh" groups="pdk" remote="lineage" />
-
+  <project path="external/tinycompress" name="android_external_tinycompress" groups="pdk" remote="lineage" />
 </manifest>
