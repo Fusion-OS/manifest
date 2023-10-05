@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Fusion-OS/documentation/main/assets/banner/fuse-banner.png" >
+
+</div>
+
 A glimpse of of the project
 ---------------
 Yet another minimalist aftermarket rom with some customisation and optimisations provide a clean and smooth android experience.
