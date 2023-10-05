@@ -1264,5 +1264,6 @@
   <!-- FusionOS Additions -->
   <include name="snippets/remove.xml" />
   <include name="snippets/fuse.xml" />
+  <include name="snippets/additional.xml" />
 
 </manifest>
