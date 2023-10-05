@@ -42,6 +42,7 @@
   
   <!-- external repos -->
   <remove-project name="platform/external/selinux" />
+  <remove-project name="platform/external/tinycompress" />
 
   <!-- framework repos -->
   <remove-project name="platform/frameworks/base" />
