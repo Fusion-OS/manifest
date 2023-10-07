@@ -31,6 +31,9 @@
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="fusion" />
   <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" remote="fusion" />
   <project path="packages/modules/Wifi" name="packages_modules_Wifi" remote="fusion" />
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="fusion" />
+  <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="fusion" />
+
 
   <!-- External -->
   <project path="external/selinux" name="external_selinux" groups="pdk" remote="fusion" />
