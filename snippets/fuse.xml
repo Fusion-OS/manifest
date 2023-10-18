@@ -48,6 +48,7 @@
 
   <!-- vendor repos -->
   <project path="vendor/fuse" name="vendor_fuse" remote="fusion" />
+  <project path="vendor/SystemUIClocks" name="vendor_SystemUIClocks" remote="fusion" />
 
   <!-- System -->
   <project path="system/core" name="system_core" remote="fusion" />
