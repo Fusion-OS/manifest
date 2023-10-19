@@ -39,6 +39,7 @@
 
   <!-- External -->
   <project path="external/selinux" name="external_selinux" groups="pdk" remote="fusion" />
+  <project path="external/libnl" name="external_libnl" groups="pdk" remote="fusion" />
   <project path="external/tinycompress" name="external_tinycompress" groups="pdk" remote="fusion" />
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" revision="refs/tags/android-11.0.0_r46" />
 
