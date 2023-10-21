@@ -53,6 +53,7 @@
 
   <!-- System -->
   <project path="system/core" name="system_core" remote="fusion" />
+  <project path="system/sepolicy" name="system_sepolicy" groups="pdk" remote="fusion" />
 
   <!-- recovery -->
   <project path="bootable/recovery" name="bootable_recovery" remote="fusion" />
