@@ -22,4 +22,7 @@
   <!-- external -->
   <project path="external/json-c" name="android_external_json-c" groups="qcom,qssi" remote="lineage" />
 
+  <!-- Compat -->
+  <project path="hardware/lineage/compat" name="android_hardware_lineage_compat" groups="qcom,qssi" remote="lineage" revision="lineage-21.0"/>
+
 </manifest>
