@@ -4,11 +4,11 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="https://android-review.googlesource.com/" />
-  <default revision="refs/tags/android-14.0.0_r2"
+  <default revision="refs/tags/android-14.0.0_r15"
            remote="aosp"
            sync-j="4" />
 
-  <superproject name="platform/superproject" remote="aosp" revision="android-14.0.0_r2"/>
+  <superproject name="platform/superproject" remote="aosp" revision="android-14.0.0_r15"/>
   <contactinfo bugurl="go/repo-bug" />
 
   <project path="build/make" name="platform/build" groups="pdk" >
@@ -1014,7 +1014,6 @@
   <project path="packages/apps/SampleLocationAttribution" name="platform/packages/apps/SampleLocationAttribution" groups="pdk-fs" />
   <project path="packages/apps/SecureElement" name="platform/packages/apps/SecureElement" groups="apps_se,pdk-fs" />
   <project path="packages/apps/Settings" name="platform/packages/apps/Settings" groups="pdk-fs" />
-  <project path="packages/apps/SettingsIntelligence" name="platform/packages/apps/SettingsIntelligence" groups="pdk-fs" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" groups="pdk-fs" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" groups="apps_stk,pdk-fs" />
   <project path="packages/apps/StorageManager" name="platform/packages/apps/StorageManager" groups="pdk-fs" />

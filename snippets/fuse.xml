@@ -33,6 +33,7 @@
   <project path="packages/modules/Wifi" name="packages_modules_Wifi" remote="fusion" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="fusion" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="fusion" />
+  <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="fusion" />
 
   <!-- Fuse Sepolicy -->
   <project path="device/fuse/sepolicy" name="device_fuse_sepolicy" remote="fusion" revision="fourteen" />
