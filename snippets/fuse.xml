@@ -43,6 +43,7 @@
   <project path="external/libnl" name="external_libnl" groups="pdk" remote="fusion" />
   <project path="external/tinycompress" name="external_tinycompress" groups="pdk" remote="fusion" />
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" revision="refs/tags/android-11.0.0_r46" />
+  <project path="external/mockito-kotlin" name="platform/external/mockito-kotlin" groups="pdk" remote="aosp" revision="refs/heads/main" />
 
   <!-- Hardware -->
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="fusion" />
